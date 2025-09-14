@@ -8,7 +8,7 @@ The objectives are:
 - Enable entry into the **e-commerce market**.
 
 ## Repository Structure
-- `docs/` → Requirements, feasibility study, project plan, design, and testing documentation.
+- `docs/` → Requirements, project plan, design.
 - `diagrams/` → UML, system design diagrams.
 
 ## 🛠️ Methodology
