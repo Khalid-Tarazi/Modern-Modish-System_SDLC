@@ -1,4 +1,4 @@
-# Modern Modish System (MMS) - SDLC Documentation
+# Modern Modish System (MMS) - SDLC Project
 
 ## Project Overview
 The **Modern Modish System (MMS)** aims to develop and deploy an integrated software solution for **Modish Maison**, a traditional furniture retailer.  
